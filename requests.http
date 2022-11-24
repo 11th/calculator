@@ -1,0 +1,14 @@
+### Greet
+GET http://localhost:8080/calculate
+
+### Summarize numbers
+GET http://localhost:8080/calculate/summarize?num1=2.5&num2=3
+
+### Subtract numbers
+GET http://localhost:8080/calculate/subtract?num1=2.5&num2=3
+
+### Multiply numbers
+GET http://localhost:8080/calculate/multiply?num1=2.5&num2=3
+
+### Divide numbers
+GET http://localhost:8080/calculate/divide?num1=2.5&num2=0
